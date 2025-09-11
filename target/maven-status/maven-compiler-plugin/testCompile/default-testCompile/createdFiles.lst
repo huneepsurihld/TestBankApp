@@ -1,0 +1,5 @@
+TestCases\SampleFormTest.class
+TestCases\TestLifeTimeMembership.class
+TestCases\CustLoginTest.class
+TestCases\HomePageTest.class
+TestCases\BankManagerTest.class
