@@ -29,7 +29,7 @@
     </classes>
   </test>
   
-   <!-- Test to run on Firefox-->
+<!-- Test to run on Firefox-->
   
   <test name="Bank Manager -- firefox">
   
@@ -38,8 +38,7 @@
   
   
    <classes>
-    
-            
+                
      <class name="TestCases.SampleFormTest"/> 
  	 <class name="TestCases.TestLifeTimeMembership"/>
   	 <class name="TestCases.HomePageTest"/>
