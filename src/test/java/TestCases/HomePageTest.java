@@ -28,6 +28,7 @@ public class HomePageTest extends BaseTest
 		killBrowser();
 	}
 	
+	//----------------------------------------To Test the home page URL---------------------------------------
 	
 @Test
 	public void home() 
