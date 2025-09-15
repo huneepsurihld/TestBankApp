@@ -1,3 +1,0 @@
-INFO    2025-09-10 16:07:04,457 [main] Base.BaseTest  - Customer Login clicked using locator: By.xpath: //button[@ng-click='customer()']
- INFO    2025-09-10 16:07:05,252 [main] Base.BaseTest  - Test Passed: drpDownNamesTest
- 
